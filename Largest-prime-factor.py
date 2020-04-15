@@ -16,9 +16,3 @@ def PrimeFactorization(k):
 print(PrimeFactorization(300))
 print(PrimeFactorization(4854545))
 print(PrimeFactorization(947584385))
-
-        
-
-
-
-    
